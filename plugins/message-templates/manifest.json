@@ -1,0 +1,15 @@
+{
+  "format": 1,
+  "id": "dev.luca.message-templates",
+  "name": "Message Templates",
+  "description": "Save reusable message templates and preview them with a configurable typing speed.",
+  "author": "Luca",
+  "version": "0.1.0",
+  "dependencies": {
+    "revenge.api": { "version": ">=1" },
+    "discord": { "version": "*" }
+  },
+  "dist": {
+    "script": "index.js"
+  }
+}
