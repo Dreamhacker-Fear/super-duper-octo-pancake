@@ -1,0 +1,6 @@
+{
+  "name": "super-duper-octo-pancake-mcp",
+  "main": "worker.js",
+  "compatibility_date": "2026-11-15",
+  "workers_dev": true
+}
