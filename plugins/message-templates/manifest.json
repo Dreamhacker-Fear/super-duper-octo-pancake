@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "id": "dev.luca.message-templates",
-  "name": "Message Templates",
-  "description": "Save reusable message templates and preview them with a configurable typing speed.",
+  "id": "dev.luca.super-octo-pancake",
+  "name": "Super Octo Pancake",
+  "description": "Send messages progressively over a configurable number of seconds.",
   "author": "Luca",
   "version": "0.1.0",
   "dependencies": {
